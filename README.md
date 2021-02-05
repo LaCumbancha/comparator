@@ -1,2 +1,2 @@
-# comparator
+# Comparator
 Two-environment comparator application
