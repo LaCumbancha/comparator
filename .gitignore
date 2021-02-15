@@ -24,3 +24,7 @@ hs_err_pid*
 
 # Target
 target/
+
+# Sources and Outputs
+data/sources/
+data/outputs/
